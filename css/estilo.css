@@ -9,11 +9,19 @@ body {
 a {
     font-weight: 700;
 }
-
 h4 {
     font-size: 1.2em;
     font-weight: 700;
     margin: 0;
     padding: 0;
     color:cadetblue
+}
+.inverso{
+    background-color: black;
+    color: white;
+    display: none;
+}
+
+.botonFondoOscuro{
+    display: none;
 }
